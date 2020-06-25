@@ -1,0 +1,24 @@
+#####1. Project objective#####
+Deep Learning Algorithm for Seismic Inversion
+
+Seismic Inversion is one of the most Time and Resource intensive step of Hydrocarbon-Exploration. This project is aimed towards automation of the same, using Deep-Learning algorithms.
+We expect that you will learn about seismic-inversion and develop an algorithm for the same. 
+Data for the same can be accessed from Equinor-Data-Portal (Volve-field)
+
+
+####2. Report submission#####
+On Sunday 28 June, you have to submit milestones for project development along with justified timeline for entire Internship-period.
+You will have to submit a detailed project development report as well as a brief report(in not more than 10 sentences) twice a week(every Saturday and Wednesday).
+
+####3. Channel of communication####
+Before submission of Milestones and corresponding timelines, email will be the only means of communication(a single thread of conversation should be maintained for all communications via email).
+After submission of timelines, we will be collaborating on github, and discussion threads will be maintained there for query resolution.
+Kindly share your github-username.
+
+####4. Project hosting####
+You will be invited to a dedicated github repository for this project.
+Useful queries will be resolved on discussion threads of the github repository.
+You are expected to push daily changes to the repository.
+Project development report as mentioned above should be pushed to repository on every saturday and wednesday. 
+No part of this project should be made public.
+We expect full dedication, and prompt reply of emails/queries.
